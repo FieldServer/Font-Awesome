@@ -1,5 +1,5 @@
 # [Font Awesome v4.6.3](http://fontawesome.io)
-### The iconic font and CSS framework
+### The iconic font and CSS framework compatible with the Protocol Engine
 
 Font Awesome is a full suite of 634 pictographic icons for easy scalable vector graphics on websites,
 created and maintained by [Dave Gandy](https://twitter.com/davegandy).
@@ -20,6 +20,7 @@ Get started at http://fontawesome.io!
 - Full details: http://fontawesome.io/license/
 
 ## Changelog
+- @smc - v4.6.3 Make compatible with Protocol Engine
 - [v4.6.3 GitHub pull request](https://github.com/FortAwesome/Font-Awesome/pull/9189)
 - [v4.6.2 GitHub pull request](https://github.com/FortAwesome/Font-Awesome/pull/9117)
 - [v4.6.1 GitHub pull request](https://github.com/FortAwesome/Font-Awesome/pull/8962)
